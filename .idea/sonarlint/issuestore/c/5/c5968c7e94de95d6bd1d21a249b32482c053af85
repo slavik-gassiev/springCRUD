@@ -1,5 +1,7 @@
 
 y
-java:S3008"WRename this field "PEOPLE_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®×ÁÍúÿÿÿÿ8îßˆû©2
+java:S3008"WRename this field "PEOPLE_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®×ÁÍúÿÿÿÿ8Ó¿Æþ©2
 {
-java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ðßˆû©2
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ö¿Æþ©2
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(´³É¥úÿÿÿÿ8÷¡Èþ©2
